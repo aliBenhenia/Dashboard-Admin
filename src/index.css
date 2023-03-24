@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body,html
+{
+    /* height: 10000px; */
+    padding-top: 38px;
+    overflow-x: hidden;
+    padding-bottom: 42px;
+    /* padding-left: 100px; */
+}
